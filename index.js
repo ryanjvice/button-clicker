@@ -1,4 +1,4 @@
-function handleClick() {
+function handleClicks() {
     let clickCount = 0;
 
     $('.js-click-counter').text(clickCounter);
